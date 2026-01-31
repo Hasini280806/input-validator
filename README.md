@@ -1,23 +1,19 @@
 # Input Validator
 
 ## Description
-A Python-based input validation program that checks the correctness of user inputs.
-The project validates common inputs such as numeric values, email format, and password strength.
+A Python-based program designed to validate different types of user inputs.
+The project checks input correctness and provides feedback for invalid entries.
 
 ## Features
-- Validate numeric input
-- Validate email format
-- Validate password strength
-- Clear error messages for invalid inputs
+- Input validation using conditions and string methods
+- Error handling for invalid inputs
+- Modular and readable code structure
 
 ## Technologies Used
 - Python
 
-## How to Run
-1. Clone the repository
-2. Run the Python file:
-
 ## Learning Outcomes
-- Understanding input validation techniques
-- Working with conditions and string methods
-- Writing clean and reusable Python functions
+- Understanding input validation logic
+- Improved use of conditionals and functions
+- Writing clean and maintainable Python code
+
